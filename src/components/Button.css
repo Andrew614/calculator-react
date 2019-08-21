@@ -11,6 +11,10 @@
     outline: 1px solid #888;
 }
 
+.button-wrapper:hover {
+    transform: scale(1.01);
+}
+
 .operator {
     background-color: #fe9241;
     color: white;
